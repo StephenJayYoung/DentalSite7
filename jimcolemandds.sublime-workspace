@@ -1,0 +1,480 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"list-",
+				"list-style-position"
+			],
+			[
+				"a",
+				"square"
+			],
+			[
+				"ta",
+				"target	Attr"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"backg",
+				"background-origin"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"fon",
+				"font-style"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"cel",
+				"cellspacing	Attr"
+			],
+			[
+				"slides",
+				"slidesToShow"
+			],
+			[
+				"topMe",
+				"topMenuHeight"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "public/index.html",
+			"settings":
+			{
+				"buffer_size": 72579,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/abbabryant/Sites/jimcolemandds.com/public/index.html",
+		"/Users/abbabryant/Sites/jimcolemandds.com/public/assets/css/animate.css",
+		"/Users/abbabryant/Sites/adasmileplace.com/public/assets/css/adasmileplace.com.css",
+		"/Users/abbabryant/Sites/adasmileplace.com/public/index.html",
+		"/Users/abbabryant/Sites/adasmileplace.com/.gitignore",
+		"/Users/abbabryant/Sites/packarddental.com/public/assets/css/packarddental.com.css",
+		"/Users/abbabryant/Sites/packarddental.com/public/index.html",
+		"/Users/abbabryant/Sites/packarddental.com/public/schedule.php",
+		"/Users/abbabryant/Sites/packarddental.com/public/assets/js/jquery.appointments.js",
+		"/Users/abbabryant/Sites/packarddental.com/public/assets/css/colors.php",
+		"/Users/abbabryant/Sites/packarddental.com/.gitignore",
+		"/Users/abbabryant/Sites/westminstercosmeticdentist.com/public/index.html",
+		"/Users/abbabryant/Sites/westminstercosmeticdentist.com/public/schedule.php",
+		"/Users/abbabryant/Sites/westminstercosmeticdentist.com/public/assets/css/lecavalier.css",
+		"/Users/abbabryant/Sites/westminstercosmeticdentist.com/westminstercosmeticdentist.sublime-project",
+		"/Users/abbabryant/Sites/westminstercosmeticdentist.com/public/assets/js/plugins.js",
+		"/Users/abbabryant/Sites/westminstercosmeticdentist.com/public/assets/css/responsive.css",
+		"/Users/abbabryant/Sites/westminstercosmeticdentist.com/public/assets/css/westminstercosmeticdentist.css",
+		"/Users/abbabryant/Sites/westminstercosmeticdentist.com/public/assets/css/animate.css",
+		"/Users/abbabryant/Sites/westminstercosmeticdentist.com/public/assets/css/font-icons.css",
+		"/Users/abbabryant/Sites/westminstercosmeticdentist.com/public/assets/css/style.css",
+		"/Users/abbabryant/Sites/westminstercosmeticdentist.com/public/assets/css/bootstrap.css",
+		"/Users/abbabryant/Sites/westminstercosmeticdentist.com/public/assets/css/vmap.css",
+		"/Users/abbabryant/Sites/westminstercosmeticdentist.com/.gitignore",
+		"/Users/abbabryant/Sites/arvadadentalexcellence.com/public/css/custom.css",
+		"/Users/abbabryant/Sites/arvadadentalexcellence.com/public/js/custom.js",
+		"/Users/abbabryant/Sites/arvadadentalexcellence.com/public/index.html",
+		"/Users/abbabryant/Sites/arvadadentalexcellence.com/.gitignore",
+		"/Users/abbabryant/Sites/greatestsmilesonearth.com/public/index.html",
+		"/Users/abbabryant/Sites/greatestsmilesonearth.com/public/assets/css/becher.css",
+		"/Users/abbabryant/Downloads/demo/styles/tickets.css",
+		"/Users/abbabryant/Sites/greatestsmilesonearth.com/public/schedule.php",
+		"/Users/abbabryant/Sites/greatestsmilesonearth.com/public/faqs.txt",
+		"/Users/abbabryant/Sites/greatestsmilesonearth.com/public/assets/css/style.css",
+		"/Users/abbabryant/Desktop/drallinforms/Financial_Policy.php",
+		"/Users/abbabryant/Sites/greatestsmilesonearth.com/.gitignore",
+		"/Users/abbabryant/Sites/allinfamilydentistry.com/.gitignore",
+		"/Users/abbabryant/Sites/allinfamilydentistry.com/public/index.html",
+		"/Users/abbabryant/Sites/allinfamilydentistry.com/public/schedule.php",
+		"/Users/abbabryant/Sites/allinfamilydentistry.com/public/style.css",
+		"/Users/abbabryant/Sites/boulderdentalgroup.com/public/index.html",
+		"/Users/abbabryant/Sites/allinfamilydentistry.com/public/css/allin.css",
+		"/Users/abbabryant/Sites/perkinsdentaltopeka.com/public/index.html",
+		"/Users/abbabryant/Sites/perkinsdentaltopeka.com/.gitignore",
+		"/Users/abbabryant/Sites/hfdsmiles.com/public/assets/css/custom.css",
+		"/Users/abbabryant/Sites/hfdsmiles.com/public/index.html",
+		"/Users/abbabryant/Sites/hfdsmiles.com/public/assets/css/style.css",
+		"/Users/abbabryant/Sites/hfdsmiles.com/public/schedule.php",
+		"/Users/abbabryant/Sites/hfdsmiles.com/public/services/bonding.html",
+		"/Users/abbabryant/Sites/hfdsmiles.com/public/services/cosmetic-bonding.html",
+		"/Volumes/Main Clients/0-WEB/_purchased templates/canvas/Canvas v3.1/Package-HTML/HTML/include/ajax/portfolio-single-image.html",
+		"/Volumes/Main Clients/0-WEB/_purchased templates/canvas/Canvas v3.1/Package-HTML/HTML/include/ajax/portfolio-ajax-gallery.php",
+		"/Users/abbabryant/Sites/hfdsmiles.com/.gitignore",
+		"/Users/abbabryant/Documents/Eblasts/TSA/tsa-game-changer-REMINDER/index.html",
+		"/Users/abbabryant/Documents/Eblasts/TSA/tsa-game-changer-CM/index.html",
+		"/Users/abbabryant/Sites/paigeprathersmiles.com/public/assets/js/components.js",
+		"/Users/abbabryant/Sites/paigeprathersmiles.com/public/index.html",
+		"/Users/abbabryant/Sites/paigeprathersmiles.com/public/assets/css/custom.css",
+		"/Users/abbabryant/Sites/paigeprathersmiles.com/public/assets/css/responsive.css",
+		"/Users/abbabryant/Sites/paigeprathersmiles.com/public/assets/js/app.js",
+		"/Users/abbabryant/Sites/paigeprathersmiles.com/public/ajax/lightbox-gallery/smile-whitening.html",
+		"/Users/abbabryant/Sites/paigeprathersmiles.com/public/ajax/lightbox-gallery/smile-gallery.html",
+		"/Users/abbabryant/Sites/paigeprathersmiles.com/public/ajax/lightbox-gallery/six-month-smiles.html",
+		"/Users/abbabryant/Sites/paigeprathersmiles.com/public/ajax/lightbox-gallery/sedation-dentistry.html",
+		"/Users/abbabryant/Sites/paigeprathersmiles.com/public/ajax/lightbox-gallery/porcelain-veneers.html",
+		"/Users/abbabryant/Sites/paigeprathersmiles.com/public/ajax/lightbox-gallery/patient-comfort.html",
+		"/Users/abbabryant/Sites/paigeprathersmiles.com/public/ajax/lightbox-gallery/cosmetic-dentistry.html",
+		"/Users/abbabryant/Sites/paigeprathersmiles.com/public/ajax/lightbox-gallery/family-friendly-care.html",
+		"/Users/abbabryant/Sites/paigeprathersmiles.com/public/ajax/lightbox-gallery/implant-dentistry.html",
+		"/Users/abbabryant/Sites/paigeprathersmiles.com/public/ajax/lightbox-gallery/one-visit-crowns.html",
+		"/Users/abbabryant/Sites/paigeprathersmiles.com/public/ajax/lightbox-gallery/infant-frenectomy.html",
+		"/Users/abbabryant/Sites/paigeprathersmiles.com/public/assets/css/pricing-box.css",
+		"/Users/abbabryant/Sites/paigeprathersmiles.com/public/assets/css/custom.scss",
+		"/Users/abbabryant/Sites/paigeprathersmiles.com/public/assets/js/scrolling.js",
+		"/Users/abbabryant/Sites/paigeprathersmiles.com/public/assets/scrolling.js",
+		"/Users/abbabryant/Sites/paigeprathersmiles.com/public/schedule.php",
+		"/Users/abbabryant/Sites/paigeprathersmiles.com/public/ajax/lightbox-gallery/porecelain-veneers.html",
+		"/Users/abbabryant/Sites/paigeprathersmiles.com/public/ajax/lightbox-gallery/project13.html",
+		"/Users/abbabryant/Sites/paigeprathersmiles.com/public/assets/css/responsive1.css",
+		"/Users/abbabryant/Sites/paigeprathersmiles.com/public/assets/css/components.css",
+		"/Users/abbabryant/Sites/paigeprathersmiles.com/public/assets/js/appointments.js",
+		"/Users/abbabryant/Sites/paigeprathersmiles.com/.gitignore",
+		"/Users/abbabryant/Sites/sedationdentistnashvilletn.com/public/index.html",
+		"/Users/abbabryant/Downloads/paigePProduction /assets/scrolling.js",
+		"/Users/abbabryant/Sites/sedationdentistnashvilletn.com/public/schedule.php",
+		"/Users/abbabryant/Sites/tonguetienashville.com/public/assets/css/imports/events.css",
+		"/Users/abbabryant/Sites/sedationdentistnashvilletn.com/.gitignore",
+		"/Users/abbabryant/Sites/tonguetienashville.com/public/assets/css/prather.css",
+		"/Users/abbabryant/Sites/tonguetienashville.com/public/index.html",
+		"/Users/abbabryant/Sites/tonguetienashville.com/public/schedule.php",
+		"/Users/abbabryant/Sites/tonguetienashville.com/.gitignore",
+		"/Users/abbabryant/Sites/topekatmjdentist.com/public/css/perkins.css",
+		"/Users/abbabryant/Sites/topekatmjdentist.com/public/schedule.php",
+		"/Users/abbabryant/Sites/topekatmjdentist.com/public/index.html",
+		"/Users/abbabryant/Sites/topekatmjdentist.com/.gitignore",
+		"/Users/abbabryant/Sites/volnerfamilydental.com/public/assets/css/main.css",
+		"/Users/abbabryant/Sites/volnerfamilydental.com/public/index.html",
+		"/Users/abbabryant/Sites/volnerfamilydental.com/public/assets/js/scripts.js",
+		"/Users/abbabryant/Sites/volnerfamilydental.com/public/assets/js/skrollr.min.js",
+		"/Users/abbabryant/Sites/volnerfamilydental.com/public/schedule.php",
+		"/Users/abbabryant/Sites/volnerfamilydental.com/public/assets/js/jquery.appointments.js",
+		"/Users/abbabryant/Sites/volnerfamilydental.com/public/assets/js/contact_me.js",
+		"/Users/abbabryant/Sites/volnerfamilydental.com/.gitignore",
+		"/Volumes/Main Clients/volner-1524/website/mobile-web_1015/VolnerDentalFinal copy/index.html",
+		"/Volumes/Main Clients/volner-1524/website/mobile-web_1015/VolnerDentalFinal copy/assets/js/bootstrap.min.js",
+		"/Volumes/Main Clients/volner-1524/website/mobile-web_1015/VolnerDentalFinal copy/assets/css/main.css",
+		"/Volumes/Main Clients/volner-1524/website/mobile-web_1015/VolnerDentalFinal copy/assets/css/jquery-impromptu.css",
+		"/Volumes/Main Clients/volner-1524/website/mobile-web_1015/VolnerDentalFinal copy/mail/contact_me.php",
+		"/Volumes/Main Clients/volner-1524/website/mobile-web_1015/VolnerDentalFinal copy/assets/js/scripts.js",
+		"/Volumes/Main Clients/volner-1524/website/mobile-web_1015/VolnerDentalFinal copy/assets/js/bootstrap-hover-dropdown.min.js",
+		"/Volumes/Main Clients/volner-1524/website/mobile-web_1015/VolnerDentalFinal copy/assets/js/skrollr.stylesheets.min.js",
+		"/Volumes/Main Clients/volner-1524/website/mobile-web_1015/VolnerDentalFinal copy/assets/js/waypoints.min.js",
+		"/Volumes/Main Clients/volner-1524/website/mobile-web_1015/VolnerDentalFinal copy/assets/js/skrollr.min.js",
+		"/Volumes/Main Clients/volner-1524/website/mobile-web_1015/VolnerDentalFinal copy/assets/js/waypoints-sticky.min.js",
+		"/Volumes/Main Clients/volner-1524/website/mobile-web_1015/VolnerDentalFinal copy/assets/js/wow.min.js",
+		"/Users/abbabryant/Sites/drkutsch.com/public/js/plugins.js",
+		"/Users/abbabryant/Sites/drkutsch.com/public/index.html",
+		"/Users/abbabryant/Sites/drkutsch.com/public/css/kutsch.css",
+		"/Users/abbabryant/Sites/drkutsch.com/public/js/jquery.appointments.js",
+		"/Users/abbabryant/Sites/drkutsch.com/public/schedule.php",
+		"/Users/abbabryant/Sites/drkutsch.com/public/js/functions.js",
+		"/Users/abbabryant/Sites/drkutsch.com/.gitignore",
+		"/Users/abbabryant/Sites/drkutsch.com/public/css/style.css",
+		"/Users/abbabryant/Sites/pascowasedationdentist.com/package.json",
+		"/Users/abbabryant/Sites/tongdentalcare.com/public/index.html",
+		"/Users/abbabryant/Sites/tongdentalcare.com/src/scss/style.scss",
+		"/Users/abbabryant/Sites/tongdentalcare.com/public/assets/js/jquery.appointments.js",
+		"/Users/abbabryant/Sites/tongdentalcare.com/public/schedule.php"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"f1f3f9",
+			"#calls-to-action",
+			"header",
+			"border",
+			"star",
+			"icon",
+			"footer",
+			"hi-title",
+			"menu-header",
+			"fullScreenAlignForce",
+			"data=",
+			"preloader",
+			"“",
+			"”",
+			"“",
+			"”",
+			"illumisure",
+			"flexibleImage",
+			"offset",
+			"owl",
+			"reviewButt",
+			"33.333",
+			"scroll",
+			"headerBu",
+			"responsiv",
+			"mainTitle",
+			"teamTabs",
+			"id=\"bioText\"",
+			"id=\"reviewsText\"",
+			"members",
+			"hero .btn",
+			"resond",
+			"text-overlay .info h3",
+			"max-width",
+			"max-width:",
+			".items li",
+			"hero",
+			"tabs-circle",
+			"inner-top-sm",
+			"inner",
+			"\n		",
+			".navbar-collapse.collapse",
+			"navbar",
+			"skrollr",
+			"specials",
+			"navbar",
+			"responsive",
+			"responsive-menu",
+			"data-toggle",
+			"yamm",
+			"scroll",
+			"navbar",
+			"br {",
+			"hero h1",
+			"membersh",
+			"btn",
+			"button",
+			"member",
+			"store",
+			"tab",
+			"ssc",
+			"btn btn-sm btn-block button-3d",
+			"btn-pr",
+			"brown",
+			"opp",
+			"END",
+			"#",
+			"2.2",
+			"masthead",
+			"b88552",
+			"ef9f4e",
+			"7ed321",
+			"f2184a",
+			"util",
+			"button",
+			"util"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"fffcf3",
+			"#actions",
+			"\"",
+			"class=\"bioText\"",
+			"class=\"reviewsText\"",
+			"btn btn-sm btn-block button-3d button",
+			"7e2e8f",
+			"1e679a",
+			"b88552",
+			"ef9f4e"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "public/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 72579,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1312,
+								1312
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "jimcolemandds.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Sites/tonguetienashville.com/tonguetienashville.sublime-project"
+			],
+			[
+				"kings",
+				"~/Sites/kingsportdenturedentist.com/kingsportdenturedentist.sublime-project"
+			],
+			[
+				"kingspo",
+				"~/Sites/kingsportdenturedentist.com/kingsportdenturedentist.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 292.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
