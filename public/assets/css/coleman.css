@@ -684,6 +684,7 @@ label.error { display: none !important; }
 
 #bottomLogo{
 	margin-bottom: 0px !important;
+	width: 25%; 
 }
 
 hoursText{
