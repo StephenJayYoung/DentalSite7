@@ -234,6 +234,7 @@ body{
 	color: #ffffff;
 	font-size: 13px;
 	margin: 5px 5px 15px 19px !important;
+	padding-bottom: 10px;
 }
 
 #calls-to-action .button:hover{
@@ -514,7 +515,7 @@ section#members {
 }
 
 .icon-ok:before {
-    color: #f25334;
+    color: #d75231;
 }
 
 .pricing-box {
@@ -531,15 +532,15 @@ section#members {
 }
 
 #membersSign {
-	color: #ee2737 !important;
+	color: #d75231 !important;
 }
 
 #membersMonth {
-	color: #ee2737 !important;
+	color: #d75231 !important;
 }
 
 .members-pricing strong {
-	color: #ee2737 !important;
+	color: #d75231 !important;
 }
 
 .price-tenure {
