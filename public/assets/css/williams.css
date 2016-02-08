@@ -25,6 +25,10 @@
     background-color: #fcfcf7;
 }
 
+#header.sticky-header #header-wrap {
+    background-color: #fcfcf7;
+}
+
 @media (max-width: 991px) {
         .responsive-sticky-header #logo {
                 height: 100px;
@@ -93,13 +97,13 @@ background-color: #e38d77 !important;
 }
 
 #primary-menu > ul > li.current a {
-	color: #f25334 !important;
+	color: #d75231 !important;
 	/*text-decoration: underline !important;*/
 }
 
 
 #primary-menu > ul > li a:hover {
-	color: #df6c4f  !important;
+	color: #d75231  !important;
 }
 
 #header.full-header #primary-menu > ul {
@@ -109,21 +113,21 @@ background-color: #e38d77 !important;
 }
 
 #primary-menu > ul > li.current a {
-    color: #313131 !important;
+    color: #000 !important;
     text-decoration: none !important;
 }
 
 #primary-menu ul li a {
-    color: #313131;
+    color: #000;
 }
 
 
 #primary-menu > ul > li.current a:hover{
-    color: #df6c4f  !important;
+    color: #d75231  !important;
 }
 
 #primary-menu > ul > li a:hover{
-    color: #df6c4f !important;
+    color: #d75231 !important;
 }
 
 
@@ -433,10 +437,6 @@ section#services {
 	margin-bottom: 0;
 	padding-bottom: 30px;
 	background-color: #f6f6e9 !important;
-}
-
-.services-heading{
-	color: #fff !important;
 }
 
 .portfolio-desc h3 a:hover {
