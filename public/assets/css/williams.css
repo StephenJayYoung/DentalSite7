@@ -617,12 +617,10 @@ section#location {
 	padding-bottom: 30px;
 	background-color: #fff;
 	padding-bottom: 0px !important;
-	padding-top: 0px !important;
+	padding-top: 50px !important;
 }
 
-#ColemanLogo{
-	padding-top: 20px;
-}
+
 
 #contact-form-overlay-mobile{
 	background-color: #FFF;
@@ -633,7 +631,7 @@ section#location {
 }
 .hotline {
 	font-size: 25px;
-	color: #df6c4f !important;
+	color: #000 !important;
 }
 
 
@@ -693,11 +691,6 @@ hoursText{
 }
 
 
-#map {
-	box-sizing: border-box;
-	border: 1px solid #bbb;
-}
-
 #contact-logo {
 	width: 100%;
 	margin: 0;
@@ -739,6 +732,78 @@ address {
 	}
 }
 
+
+/*Newly entered CSS - will need pairing down*/
+
+
+#bottomLogo {
+	width: 450px !important; 
+	height: auto !important;
+}
+
+.postcontent, .sidebar, .col_full, .col_half, .col_one_third, .col_two_third, .col_three_fourth, .col_one_fourth, .col_one_fifth, .col_two_fifth, .col_three_fifth, .col_four_fifth, .col_one_sixth, .col_five_sixth {
+     margin-bottom: 10px !important; 
+}
+
+.contactText {
+	font-size: 29px !important;
+	color: #000000;
+	font-family: 'Oswald', serif !important;
+
+}
+
+#location-map{
+height: 240px;
+}
+
+
+@media (max-width: 780px){
+	#bottomLogo {
+	width: 350px !important; 
+	height: auto !important;
+}
+
+}
+
+@media (max-width: 480px){
+	#bottomLogo {
+	width: 250px !important; 
+	height: auto !important;
+}
+
+}
+
+
+#contact-form-overlay-mobile{
+	background-color: #FFF;
+	padding: 10px;
+	margin: 0 auto;
+	border-radius: 4px;
+	box-shadow: 0 1px 10px rgba(0,0,0,0.15);
+}
+
+#contact-form-overlay-mobile img{
+max-height: 100px;
+max-width: 100px;
+}
+
+@media (max-width: 992px) {
+#google-map{
+	max-height: 450px;
+	}
+}
+
+#mobileLogo{
+	max-height: 250px;
+	max-width: 250px;
+	vertical-align: middle;
+}
+
+#map-overlay{
+	margin-top: 50px;
+}
+
+/*End newly entered CSS*/
 /*MODAL OVERRIDES*/
 .modal-body{
 	font-size: 15px;
