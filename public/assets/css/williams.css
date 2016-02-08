@@ -22,11 +22,16 @@
 }
 
 #header {
-    background-color: #fcfcf7;
+    background-color: #fcfcf7 !important;
 }
 
 #header.sticky-header #header-wrap {
-    background-color: #fcfcf7;
+    background-color: #fcfcf7 !important;
+}
+
+@media (max-width: 991px)
+.responsive-sticky-header #header-wrap {
+    background-color: #fcfcf7 !important;
 }
 
 @media (max-width: 991px) {
@@ -275,7 +280,7 @@ section#team .oc-item { box-sizing: border-box; }
 }
 
 .owl-theme .owl-controls .owl-nav [class*=owl-]:hover {
-	background-color: #df6c4f !important;
+	background-color: #d75231 !important;
 	color: #FFF !important;
 	text-decoration: none;
 }
@@ -438,6 +443,11 @@ section#services {
 	margin-bottom: 0;
 	padding-bottom: 30px;
 	background-color: #f6f6e9 !important;
+}
+
+.portfolio-desc h3 {
+    font-size: 21px;
+    padding-bottom: 20px;
 }
 
 .portfolio-desc h3 a:hover {
@@ -803,6 +813,16 @@ max-width: 100px;
 
 #map-overlay{
 	margin-top: 50px;
+}
+
+.locationTextHours {
+    font-size: 17px !important;
+    color: #000000 !important;
+    padding: 20px;
+    background-color: #FFF;
+    border: 1px solid rgba(0,0,0,.1);
+    border-radius: 5px;
+    box-shadow: 0 1px 1px rgba(0,0,0,.1);
 }
 
 /*End newly entered CSS*/
