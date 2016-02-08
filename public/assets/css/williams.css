@@ -18,6 +18,7 @@
 #logo {
     margin-right: 10px;
     height: 75px;
+    width: 300px;
 }
 
 @media (max-width: 991px) {
