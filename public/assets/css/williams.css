@@ -446,12 +446,68 @@ section#services {
 }
 
 .portfolio-desc h3 {
-    font-size: 21px;
-    padding-bottom: 20px;
+    font-size: 22px;
+    margin: 8px 0 0 0;
+		padding: 2px;
+		text-align: center;
 }
 
+.portfolio-padding{
+	padding-bottom: 35px !important;
+}
+
+/*@media (min-width: 768px) and (max-width: 1199px) {
+	#pricingBoxResponsive{
+	padding-bottom: 25px;
+	}
+}*/
+
+
+@media (min-width: 991px) and (max-width: 1200px){
+	.portfolio-desc h3 {
+	    font-size: 17px;
+	    margin: 8px 0 0 0;
+			padding: 2px;
+			text-align: center;
+	}
+
+	.portfolio-padding{
+		padding-bottom: 25px !important;
+	}
+
+}
+
+@media (min-width: 786px) and (max-width: 990px){
+	.portfolio-desc h3 {
+	    font-size: 18px;
+	    margin: 8px 0 0 0;
+			padding: 2px;
+			text-align: center;
+	}
+
+	.portfolio-padding{
+		padding-bottom: 27px !important;
+	}
+
+}
+
+@media (min-width: 480px) and (max-width: 785px){
+	.portfolio-desc h3 {
+	    font-size: 18px;
+	    margin: 8px 0 0 0;
+			padding: 2px;
+			text-align: center;
+	}
+
+	.portfolio-padding{
+		padding-bottom: 25px !important;
+	}
+
+}
+
+
 .portfolio-desc h3 a:hover {
-    color: #444 !important;
+    color: #000 !important;
 }
 
 /*Patient Forms*/
@@ -620,11 +676,7 @@ box-sizing: border-box;
 	display: block;
 }
 
-.portfolio-desc {
-	margin: 8px 0 0 0;
-	padding: 2px;
-	text-align: center;
-}
+
 
 /** CONTACT OVERRIDES */
 section#location {
@@ -632,7 +684,7 @@ section#location {
 	padding-bottom: 30px;
 	background-color: #fff;
 	padding-bottom: 0px !important;
-	padding-top: 50px !important;
+/*	padding-top: 50px !important;*/
 }
 
 #contact-form-overlay-mobile{
