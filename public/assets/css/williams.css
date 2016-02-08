@@ -21,6 +21,10 @@
     width: 300px;
 }
 
+#header {
+    background-color: #fcfcf7;
+}
+
 @media (max-width: 991px) {
         .responsive-sticky-header #logo {
                 height: 100px;
@@ -59,7 +63,7 @@ nav#primary-menu.statick-sticky > ul{
 }
 
 h2 {
-    color: #3c948b;
+    color: #37251b;
     font-family: 'Raleway', sans-serif;
     font-weight: 700;
 }
@@ -125,8 +129,8 @@ background-color: #e38d77 !important;
 
 
 body{
-	color: #313131 !important;
-	background-color: #f4f4f4 !important;
+	color: #685e58 !important;
+	background-color: #fff !important;
 }
 
 
@@ -222,7 +226,7 @@ body{
 #calls-to-action .button {
 	margin: 0 auto;
 	text-align: center;
-	background-color: #df6c4f !important;
+	background-color: #d75231 !important;
 	color: #ffffff;
 	font-size: 13px;
 	margin: 5px 5px 15px 19px !important;
@@ -234,7 +238,7 @@ body{
 
 /** TEAM OVERRIDES */
 section#team {
-	background-color: #e1e3e4 !important;
+	background-color: #f6f6e9 !important;
 	margin-top: 0;
 	padding-top: 60px;
 	padding-bottom: 30px;
@@ -394,7 +398,7 @@ section#reviews {
 	padding-top: 60px;
 	margin-bottom: 0;
 	padding-bottom: 30px;
-	background-color: #e1e3e4 !important;
+	background-color: #f6f6e9 !important;
 }
 
 /** GALLERY OVERRIDES */
@@ -428,7 +432,7 @@ section#services {
 	padding-top: 60px;
 	margin-bottom: 0;
 	padding-bottom: 30px;
-	background-color: #3c948b !important;
+	background-color: #f6f6e9 !important;
 }
 
 .services-heading{
@@ -498,7 +502,7 @@ section#members {
 	margin-bottom: 0;
 	padding-bottom: 30px;
 	border-bottom: 1px solid #e8e8e8;
-	background-color: #67BCDB !important; 
+	background-color: #685e58 !important; 
 }
 
 .dark .pricing-box.pricing-extended .pricing-action-area {
@@ -573,7 +577,7 @@ section#members {
 
 #members a.button {
 	border-bottom: 3px solid rgba(0,0,0,0.15);
-	background-color: #ee2737;
+	background-color: #d75231;
 	color: #ffffff;
 }
 
@@ -586,7 +590,7 @@ section#tour {
 	margin-top: 0;
 	padding-top: 60px;
 	padding-bottom: 75px !important;
-	background-color: #e1e3e4 !important;
+	background-color: #fff !important;
 }
 
 .portfolio-item {
@@ -619,8 +623,6 @@ section#location {
 	padding-bottom: 0px !important;
 	padding-top: 50px !important;
 }
-
-
 
 #contact-form-overlay-mobile{
 	background-color: #FFF;
@@ -731,7 +733,6 @@ address {
 		text-align: center;
 	}
 }
-
 
 /*Newly entered CSS - will need pairing down*/
 
@@ -870,7 +871,7 @@ max-width: 100px;
 }
 
 #copyrights {
-  background-color: #444 !important;
+  background-color: #302521 !important;
   color: #fff !important;
 }
 
@@ -912,7 +913,7 @@ input, select, textarea {
 /*CUSTOM BUTTON COLOR*/
 
 .button{
-	background-color: #df6c4f !important;
+	background-color: #d75231 !important;
 }
 
 .portfolio-overlay a.center-icon {
@@ -924,5 +925,5 @@ input, select, textarea {
 }
 
 #gotoTop:hover {
-    background-color: #df6c4f !important;
+    background-color: #d75231 !important;
 }
