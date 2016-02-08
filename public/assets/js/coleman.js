@@ -95,10 +95,10 @@ jQuery(document).ready(function($){
     var ocTeam = $("#oc-team-list");
     ocTeam.owlCarousel({
         items: 1,
-        nav: true,
-        navText : ['<i class="icon-angle-left"></i>','<i class="icon-angle-right"></i>'],
+        nav: false,
+        // navText : ['<i class="icon-angle-left"></i>','<i class="icon-angle-right"></i>'],
         dots: false,
-        loop: true,
+        // loop: true,
         touchDrag: false
     });
 
