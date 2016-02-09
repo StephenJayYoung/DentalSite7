@@ -3536,7 +3536,7 @@ body:not(.device-touch):not(.device-xs):not(.device-xxs) .portfolio-notitle .por
 
 .portfolio-desc {
 	z-index: 3;
-	padding: 15px 5px 10px;
+/*	padding: 15px 5px 10px;*/
 }
 
 .portfolio-desc h3 {
