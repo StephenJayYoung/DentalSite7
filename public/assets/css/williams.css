@@ -6,6 +6,10 @@
     display: block;
 }
 
+a {
+    font-family: 'lato', sans-serif;
+}
+
 /** MENU OVERRIDES */
 
 #top-bar {
@@ -13,6 +17,7 @@
     border: .5px solid black;
     color: #FFF !important;
     padding-left: 0px !important;
+    font-family: "Lato", Helvetica, sans-serif;;
 }
 
 #logo {
@@ -220,6 +225,7 @@ body{
 
 #calls-to-action .heading-block h2 a {
 	color: #313131 !important;
+	font-family: "lato", Helvetica, sans-serif;
 }
 
 #calls-to-action .heading-block h2 a:hover, #calls-to-action .heading-block h2 a:active {
@@ -253,6 +259,10 @@ section#team {
 	padding-top: 60px;
 	padding-bottom: 30px;
 }
+
+/*Recently added in*/
+#tim-williams{padding-top:30px;}
+/*end recently added*/
 
 section#team .oc-item { box-sizing: border-box; }
 
