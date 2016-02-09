@@ -264,6 +264,12 @@ section#team {
 	font-family: "Lato", sans-serif;
 }
 
+@media (min-width: 768px) and (max-width: 991px){
+	.doctor-text{
+		font-size: 12px;
+	}
+}
+
 /*Recently added in*/
 #tim-williams{padding-top:30px;}
 .bio-image{vertical-align:bottom !important;}
