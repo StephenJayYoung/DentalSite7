@@ -260,8 +260,13 @@ section#team {
 	padding-bottom: 30px;
 }
 
+.doctor-name {
+	font-family: "Lato", sans-serif;
+}
+
 /*Recently added in*/
 #tim-williams{padding-top:30px;}
+.bio-image{vertical-align:bottom !important;}
 /*end recently added*/
 
 section#team .oc-item { box-sizing: border-box; }
@@ -324,6 +329,10 @@ section#specials {
 
 .pricing-title h3 {
 	color: #ffffff;
+}
+
+.pricing-headline{
+	font-family: Raleway, sans-serif;
 }
 
 .pricing-box.pricing-extended .pricing-meta, .pricing-price, .pricing-price span, .pricing-box.pricing-extended .pricing-action-area .pricing-price span.price-tenure {
@@ -460,6 +469,10 @@ section#services {
     margin: 8px 0 0 0;
 		padding: 2px;
 		text-align: center;
+}
+
+.services-heading{
+	font-family: Raleway-light, sans-serif;
 }
 
 
