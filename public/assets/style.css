@@ -55,13 +55,13 @@ dl, dt, dd, ol, ul, li {
 body {
 	line-height: 1.1;
 	color: #313131;
-	font-family: 'Rufina', serif;
+	font-family: 'lato', sans-serif;
 }
 
 a {
 	text-decoration: none !important;
 	color: #000;
-	font-family: 'lato', serif;
+	font-family: 'lato', sans-serif;
 	color: #fff;
 }
 
