@@ -9961,7 +9961,7 @@ body:not(.device-touch) .team-overlay {
 	height: 100%;
 	border-left: 1px solid rgba(0,0,0,0.05);
 	background-color: #F9F9F9;
-	padding: 30px;
+	padding: 27px;
 	border-radius: 0 3px 3px 0;
 	text-align: center;
 }

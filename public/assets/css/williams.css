@@ -518,7 +518,7 @@ section#members {
 }
 
 .pricing-box.pricing-extended .pricing-action-area {
-    padding: 25px;
+    padding: 27px !important;
 }
 
 section#members .heading-block h2{
