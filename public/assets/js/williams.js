@@ -91,17 +91,6 @@ jQuery(document).ready(function($){
         startWithSlide: 0,
     });
 
-    // team carousel
-    var ocTeam = $("#oc-team-list");
-    ocTeam.owlCarousel({
-        items: 1,
-        nav: false,
-        // navText : ['<i class="icon-angle-left"></i>','<i class="icon-angle-right"></i>'],
-        dots: false,
-        // loop: true,
-        touchDrag: false
-    });
-
     // tour scripts
     var relatedPortfolio = $("#related-portfolio");
 
