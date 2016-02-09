@@ -517,6 +517,10 @@ section#members {
 	background-color: #685e58 !important; 
 }
 
+.pricing-box.pricing-extended .pricing-action-area {
+    padding: 25px;
+}
+
 section#members .heading-block h2{
 		color: #fff !important;
 }
