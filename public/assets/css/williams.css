@@ -302,8 +302,8 @@ section#team .oc-item { box-sizing: border-box; }
 
 .oc-item, .group-photo-slide {
 	padding: 1em;
-	border: 1px solid #ddd;
-	border-radius: 10px;
+/*	border: 1px solid #ddd;
+*/	border-radius: 10px;
 	background-color: #ffffff;
 }
 
@@ -667,7 +667,7 @@ section#location {
 }
 .hotline {
 	font-size: 25px;
-	color: #000 !important;
+	color: #d75231 !important;
 }
 
 
