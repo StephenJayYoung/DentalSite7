@@ -336,7 +336,7 @@ section#specials {
 }
 
 .pricing-box.pricing-extended .pricing-meta, .pricing-price, .pricing-price span, .pricing-box.pricing-extended .pricing-action-area .pricing-price span.price-tenure {
-    color: #000000 !important;
+    color: #d75231 !important;
 }
 
 #pricingBoxOne{
@@ -611,6 +611,7 @@ section#members {
 .pricing-box.pricing-extended .pricing-meta, .pricing-price, .pricing-price span, .pricing-box.pricing-extended .pricing-action-area .pricing-price span.price-tenure {
 	color: #ffffff;
 }
+
 
 #members a.button {
 	border-bottom: 3px solid rgba(0,0,0,0.15);
