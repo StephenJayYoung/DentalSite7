@@ -635,7 +635,9 @@ box-sizing: border-box;
 	display: block;
 }
 
-
+.owl-carousel .owl-item img {
+    border-radius: 25px;
+}
 
 /** CONTACT OVERRIDES */
 section#location {
