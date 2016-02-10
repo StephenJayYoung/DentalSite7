@@ -285,6 +285,10 @@ section#doctor {
 
 section#team .oc-item { box-sizing: border-box; }
 
+#williams-image{
+	vertical-align: bottom;
+}
+
 @media (min-width: 1200px) {
 		#williams-image{
 		max-width: 114% !important;
