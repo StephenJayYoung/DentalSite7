@@ -262,7 +262,7 @@ body{
 }
 
 /** TEAM OVERRIDES */
-section#team {
+section#doctor {
 	background-color: #f6f6e9 !important;
 	margin-top: 0;
 	padding-top: 60px;
@@ -279,13 +279,15 @@ section#team {
 	}
 }
 
-/*Recently added in*/
-#tim-williams{padding-top:30px;}
-.bio-image{vertical-align:bottom !important;}
-/*end recently added*/
+#tim-williams {
+	padding-top:30px;
+}
+
+.bio-image {
+	vertical-align:bottom !important;
+}
 
 section#team .oc-item { box-sizing: border-box; }
-
 
 @media (min-width: 1200px) {
 		#williams-image{
@@ -319,13 +321,6 @@ section#team .oc-item { box-sizing: border-box; }
 	}
 }
 
-
-/*#williams-image{
-	max-width: 110% !important;
-	width: 110% !important;
-	padding-right: 15px;
-}*/
-
 .team-title h4{
     font-size: 23px;
 }
@@ -357,8 +352,7 @@ section#team .oc-item { box-sizing: border-box; }
 
 .oc-item, .group-photo-slide {
 	padding: 1em;
-/*	border: 1px solid #ddd;
-*/	border-radius: 10px;
+	border-radius: 10px;
 	background-color: #ffffff;
 }
 
@@ -510,58 +504,6 @@ section#services {
     color: #000 !important;
 }
 
-/*Patient Forms*/
-
-#forms{
-	background-color: #fff;
-	padding-bottom: 50px;
-	padding-top: 50px;
-}
-
-.forms-background {
-	background-color: #444 !important;
-}
-
-.forms-header{
-	color: #fff !important;
-}
-
-.forms-padding{
-	padding-top: 75px;
-	padding-bottom: 75px
-}
-
-.forms-padding-two{
-	padding-top: 25px;
-	padding-bottom: 25px
-}
-
-.forms-bn-one{
-	padding-left: 52px !important;
-	padding-right: 52px !important;
-}
-
-forms-bn-two{
-	padding-left: 36px !important;
-	padding-right: 36px !important;
-}
-
-@media (min-width: 991px) {
-	#forms .col-lg-4 {
-	    width: 31%;
-	    margin-right: 2%;
-	}
-
-	#forms .col-sm-12:last-child {
-		margin-right: 0;
-	}
-}
-
-#forms .heading-block span {
-	color: #ffffff;
-	font-weight: 400;
-}
-
 /** MEMBERS OVERRIDES */
 section#members {
 	margin-top: 0px;
@@ -584,11 +526,6 @@ section#members .heading-block span{
 		color: #fff !important;
 }
 
-/*
-.members-heading {
-	color: #fff !important;
-}
-*/
 .dark .pricing-box.pricing-extended .pricing-action-area {
     background-color: #eee;
 }
@@ -658,7 +595,6 @@ section#members .heading-block span{
 .pricing-box.pricing-extended .pricing-meta, .pricing-price, .pricing-price span, .pricing-box.pricing-extended .pricing-action-area .pricing-price span.price-tenure {
 	color: #ffffff;
 }
-
 
 #members a.button {
 	border-bottom: 3px solid rgba(0,0,0,0.15);
@@ -763,7 +699,7 @@ label.error { display: none !important; }
 	.locationText{
 	font-size: 16px !important;
 	font-family: "Lato", sans-serif !important;
-}
+	}
 }
 
 
@@ -779,11 +715,9 @@ label.error { display: none !important; }
 	}
 }
 
-
 hoursText{
 	margin-bottom: 0px !important;
 }
-
 
 #contact-logo {
 	width: 100%;
@@ -807,106 +741,7 @@ address {
 	margin-bottom: -5px;
 }
 
-@media (max-width: 768px) {
 
-	#contact-logo {
-		margin: 0 auto;
-	}
-
-	#location .details, #location .actions {
-		width: 100%;
-		max-width: 320px;
-		box-sizing: border-box;
-		margin: 0 auto;
-		text-align: center;
-	}
-
-	#location address {
-		text-align: center;
-	}
-}
-
-/*Newly entered CSS - will need pairing down*/
-
-
-#bottomLogo {
-	width: 450px !important; 
-	height: auto !important;
-}
-
-.postcontent, .sidebar, .col_full, .col_half, .col_one_third, .col_two_third, .col_three_fourth, .col_one_fourth, .col_one_fifth, .col_two_fifth, .col_three_fifth, .col_four_fifth, .col_one_sixth, .col_five_sixth {
-     margin-bottom: 10px !important; 
-}
-
-.contactText {
-	font-size: 29px !important;
-	color: #000000;
-	font-family: 'Oswald', serif !important;
-
-}
-
-#location-map{
-height: 240px;
-}
-
-
-@media (max-width: 780px){
-	#bottomLogo {
-	width: 350px !important; 
-	height: auto !important;
-}
-
-}
-
-@media (max-width: 480px){
-	#bottomLogo {
-	width: 250px !important; 
-	height: auto !important;
-}
-
-}
-
-
-#contact-form-overlay-mobile{
-	background-color: #FFF;
-	padding: 10px;
-	margin: 0 auto;
-	border-radius: 4px;
-	box-shadow: 0 1px 10px rgba(0,0,0,0.15);
-}
-
-#contact-form-overlay-mobile img{
-max-height: 100px;
-max-width: 100px;
-}
-
-@media (max-width: 992px) {
-#google-map{
-	max-height: 450px;
-	}
-}
-
-#mobileLogo{
-	max-height: 250px;
-	max-width: 250px;
-	vertical-align: middle;
-}
-
-#map-overlay{
-	margin-top: 50px;
-}
-
-.locationTextHours {
-    font-size: 17px !important;
-    color: #000000 !important;
-    padding: 20px;
-    background-color: #FFF;
-    border: 1px solid rgba(0,0,0,.1);
-    border-radius: 5px;
-    box-shadow: 0 1px 1px rgba(0,0,0,.1);
-}
-
-/*End newly entered CSS*/
 /*MODAL OVERRIDES*/
 .modal-body{
 	font-size: 15px;
