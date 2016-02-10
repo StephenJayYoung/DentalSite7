@@ -10,8 +10,19 @@
 
 /** MENU OVERRIDES */
 
+body{
+	color: #685e58 !important;
+	background-color: #fff !important;
+}
+
 a {
     font-family: 'lato', sans-serif;
+}
+
+h2 {
+    color: #37251b;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
 }
 
 #top-bar {
@@ -87,12 +98,6 @@ nav#primary-menu.statick-sticky > ul{
 	height: 100px;
 }
 
-h2 {
-    color: #37251b;
-    font-family: 'Raleway', sans-serif;
-    font-weight: 700;
-}
-
 #topButton{
 	font-size: 11px;
 	height: 35px;
@@ -119,9 +124,7 @@ background-color: #e38d77 !important;
 
 #primary-menu > ul > li.current a {
 	color: #d75231 !important;
-	/*text-decoration: underline !important;*/
 }
-
 
 #primary-menu > ul > li a:hover {
 	color: #d75231  !important;
@@ -142,7 +145,6 @@ background-color: #e38d77 !important;
     color: #000;
 }
 
-
 #primary-menu > ul > li.current a:hover{
     color: #d75231  !important;
 }
@@ -150,14 +152,6 @@ background-color: #e38d77 !important;
 #primary-menu > ul > li a:hover{
     color: #d75231 !important;
 }
-
-
-
-body{
-	color: #685e58 !important;
-	background-color: #fff !important;
-}
-
 
 #primary-menu ul li a {
 	padding: 0 5px;
@@ -692,13 +686,13 @@ label.error { display: none !important; }
 .form-control.error,
 .sm-form-control.error { border-color: #E42C3E; }
 
-.locationText{
+.location-text{
 	font-size: 19px !important;
 	font-family: "Lato", sans-serif !important;
 }
 
 @media (max-width: 480px) {
-	.locationText{
+	.location-text{
 	font-size: 16px !important;
 	font-family: "Lato", sans-serif !important;
 	}
