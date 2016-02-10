@@ -6,11 +6,13 @@
     display: block;
 }
 
+
+
+/** MENU OVERRIDES */
+
 a {
     font-family: 'lato', sans-serif;
 }
-
-/** MENU OVERRIDES */
 
 #top-bar {
     background-color: #685e58;
@@ -291,17 +293,17 @@ section#team .oc-item { box-sizing: border-box; }
 
 @media (min-width: 1200px) {
 		#williams-image{
-		max-width: 110% !important;
-		width: 110% !important;
-		padding-right: 15px;
+		max-width: 114% !important;
+    width: 114% !important;
+    padding-right: 15px;
 	}
 }
 
 @media (min-width: 991px) and (max-width: 1199px) {
 		#williams-image{
-		max-width: 123% !important;
-    width: 123% !important;
-    padding-right: 22px;
+		max-width: 130% !important;
+    width: 130% !important;
+    padding-right: 33px;
 	}
 }
 
@@ -309,14 +311,14 @@ section#team .oc-item { box-sizing: border-box; }
 		#williams-image{
 		max-width: 123% !important;
     width: 123% !important;
-    padding-right: 22px;
+    padding-right: 11px;
 	}
 }
 
 @media (max-width: 480px) {
 		#williams-image{
-		max-width: 143% !important;
-    width: 143% !important;
+		max-width: 150% !important;
+    width: 150% !important;
     padding-right: 50px;
 	}
 }
@@ -717,14 +719,6 @@ label.error { display: none !important; }
 
 hoursText{
 	margin-bottom: 0px !important;
-}
-
-#contact-logo {
-	width: 100%;
-	margin: 0;
-	max-width: 280px;
-	height: auto;
-	display: block;
 }
 
 address {
