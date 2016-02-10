@@ -726,10 +726,19 @@ label.error { display: none !important; }
 }
 }
 
-#bottomLogo{
-	margin-bottom: 0px !important;
-	width: 25%; 
+
+@media (min-width: 768px) and (max-width: 991px){
+	#bottom-logo{
+		width: 400px;
+	}
 }
+
+@media (min-width: 480px) and (max-width: 767px){
+	#bottom-logo{
+		width: 300px;
+	}
+}
+
 
 hoursText{
 	margin-bottom: 0px !important;
