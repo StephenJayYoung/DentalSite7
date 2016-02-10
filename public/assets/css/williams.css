@@ -286,6 +286,46 @@ section#team {
 
 section#team .oc-item { box-sizing: border-box; }
 
+
+@media (min-width: 1200px) {
+		#williams-image{
+		max-width: 110% !important;
+		width: 110% !important;
+		padding-right: 15px;
+	}
+}
+
+@media (min-width: 991px) and (max-width: 1199px) {
+		#williams-image{
+		max-width: 123% !important;
+    width: 123% !important;
+    padding-right: 22px;
+	}
+}
+
+@media (min-width: 768px) and (max-width: 990px) {
+		#williams-image{
+		max-width: 123% !important;
+    width: 123% !important;
+    padding-right: 22px;
+	}
+}
+
+@media (max-width: 480px) {
+		#williams-image{
+		max-width: 143% !important;
+    width: 143% !important;
+    padding-right: 50px;
+	}
+}
+
+
+/*#williams-image{
+	max-width: 110% !important;
+	width: 110% !important;
+	padding-right: 15px;
+}*/
+
 .team-title h4{
     font-size: 23px;
 }
