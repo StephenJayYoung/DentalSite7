@@ -704,13 +704,13 @@ label.error { display: none !important; }
 
 
 @media (min-width: 768px) and (max-width: 991px){
-	#bottom-logo{
+	#bottom-logo-responsive{
 		width: 400px;
 	}
 }
 
 @media (min-width: 480px) and (max-width: 767px){
-	#bottom-logo{
+	#bottom-logo-responsive{
 		width: 300px;
 	}
 }
