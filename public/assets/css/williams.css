@@ -34,10 +34,19 @@ a {
     background-color: #fcfcf7 !important;
 }
 
-@media (max-width: 991px)
+#header .container {
+    background-color: #fcfcf7;
+}
+
+#header #header-wrap .container .container .clearfix{
+	background-color: #fcfcf7 !important;;
+}
+
+
 .responsive-sticky-header #header-wrap {
     background-color: #fcfcf7 !important;
 }
+
 
 @media (max-width: 991px) {
         .responsive-sticky-header #logo {

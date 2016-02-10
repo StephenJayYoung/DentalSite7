@@ -115,12 +115,12 @@ jQuery(document).ready(function($){
     // google maps script
     $('#google-map').gMap({
 
-        address: '1800 SW 152nd Street, Suite 202, Burien, WA',
+        address: '4221 85th Street, Lubbock, TX',
         maptype: 'ROADMAP',
         zoom: 16,
         markers: [
             {
-                address: "1800 SW 152nd Street, Suite 202, Burien, WA",
+                address: "4221 85th Street, Lubbock, TX 79423",
                 icon: {
                     image: "assets/images/icons/map-icon-red.png",
                     iconsize: [32, 39],
